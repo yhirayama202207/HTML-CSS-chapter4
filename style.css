@@ -3,3 +3,42 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+.header-top {
+  height: 50px;
+  background-color: red;
+}
+
+.header-main {
+  height: 500px;
+  background-color: orange;
+}
+
+main {
+  width: 960px;
+  display: flex;
+  margin: 0 auto;
+}
+
+.main-box1 {
+  height: 1400px;
+  width: 230px;
+  background-color: limegreen;
+}
+
+.main-box2 {
+  height: 1400px;
+  width: 500px;
+  background-color: green;
+}
+
+.main-box3 {
+  height: 1400px;
+  width: 230px;
+  background-color: limegreen;
+}
+
+footer {
+  height: 50px;
+  background-color: blue;
+}
